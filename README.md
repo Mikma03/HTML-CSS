@@ -1,4 +1,4 @@
-# Solid basics of HTML and CSS
+# HTML and CSS introduction
 
 # Table of contents
 
@@ -13,3 +13,8 @@
 
 
 # Introduction
+
+This repository is about basic knowledge of HTML and CSS.
+
+Expressions and ecamples.
+
